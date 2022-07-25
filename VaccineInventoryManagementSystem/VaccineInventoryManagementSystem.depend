@@ -1,0 +1,114 @@
+# depslib dependency file v1.0
+1621929099 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignmentt\vaccineinventorymanagementsystem\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1622374156 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\main.c
+	"main.h"
+	"functions.h"
+
+1622368502 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\function.c
+
+1622900853 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\main.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1622369773 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\function.h
+
+1622373839 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\createinventory.c
+	"main.h"
+
+1623920452 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\searchvaccine.c
+	"main.h"
+	"functions.h"
+	"countLines.h"
+
+1622959567 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\updatevaccineqnty.c
+	"main.h"
+	"functions.h"
+	"countLines.h"
+
+1622949060 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\viewvacdist.c
+	"main.h"
+	"functions.h"
+	"swapFloat.h"
+	"countLines.h"
+
+1622952406 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\createinventory.c
+	"main.h"
+
+1622372428 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\vaccinestruct.h
+
+1622901059 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\swapfloat.c
+	"swapFloat.h"
+
+1622901044 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\swapfloat.h
+
+1622373823 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\distinfodistributedstruct.h
+
+1622712523 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\countlines.c
+	"main.h"
+
+1622372400 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\updatevaccineqnty.c
+	"main.h"
+	"vaccineStruct.h"
+
+1622372401 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\searchvaccine.c
+	"main.h"
+	"vaccineStruct.h"
+
+1622372400 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\viewvacdist.c
+	"main.h"
+	"vaccineStruct.h"
+	"distinfoDistributedStruct.h"
+
+1622703572 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\functions.h
+
+1622901032 c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\countlines.h
+
+1622901456 source:c:\users\asus rog\documents\college stuff\2nd semester\intro c programming\assignment\vaccineinventorymanagementsystem\menu.c
+	"main.h"
+	"functions.h"
+
+1622712523 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\countlines.c
+	"main.h"
+
+1622900853 c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\main.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1622952406 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\createinventory.c
+	"main.h"
+
+1622901456 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\menu.c
+	"main.h"
+	"functions.h"
+
+1622703572 c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\functions.h
+
+1623920452 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\searchvaccine.c
+	"main.h"
+	"functions.h"
+	"countLines.h"
+
+1622901032 c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\countlines.h
+
+1622901059 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\swapfloat.c
+	"swapFloat.h"
+
+1622901044 c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\swapfloat.h
+
+1622959567 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\updatevaccineqnty.c
+	"main.h"
+	"functions.h"
+	"countLines.h"
+
+1622949060 source:c:\users\asus rog\onedrive - asia pacific university\semester_2\intro c programming\assignment\vaccineinventorymanagementsystem\viewvacdist.c
+	"main.h"
+	"functions.h"
+	"swapFloat.h"
+	"countLines.h"
+

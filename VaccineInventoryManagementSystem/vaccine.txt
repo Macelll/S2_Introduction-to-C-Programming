@@ -1,0 +1,6 @@
+Pfizer PF USA 2 50.00 0.00
+Sinovac SV China 2 18.80 7.40
+AstraZeneca AZ UK 2 10.00 7.80
+Sputnik_V SP Russia 2 10.00 5.70
+CanSinoBio CS China 1 10.90 6.90
+MacelVaccine MV Indonesia 100 0.10 0.00
